@@ -3,7 +3,6 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Dongle', sans-serif;
 }
 
 body {
@@ -107,7 +106,6 @@ body {
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Jua', sans-serif
 }
 
 body {
@@ -153,7 +151,6 @@ body {
     background-color: white;
     margin-bottom: 20px;
     position: relative;
-    background-color: #7b9acc;
     cursor: pointer;
 }
 
@@ -172,7 +169,9 @@ body {
     position: absolute;
     bottom: 16px;
     left: 14px;
-    font-size: 24px;
+    font-family: Poor Story;
+    font-size: 20px;
+    font-weight: bold;
     color: black;
 }
 
@@ -180,7 +179,7 @@ body {
     position: absolute;
     bottom: -12px;
     left: 14px;
-    font-size: 18px;
+    font-size: 15px;
     color: black;
 }
 
@@ -188,7 +187,10 @@ body {
     position: absolute;
     bottom: -12px;
     right: 10px;
-    font-size: 20px;
+    background-color: snow;
+    padding-left: 10px;
+    font-size: 15px;
+    font-weight: bold;
     color: black;
 }
 
