@@ -46,8 +46,6 @@ function signinupButton(){
 // 로그인 확인
 async function checkLogin() {
     const name = await getName()
-
-    console.log('2')
     
     const loginoutButton = document.getElementById("loginout")
     console.log(loginoutButton)
