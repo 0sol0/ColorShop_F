@@ -79,7 +79,7 @@
     height: 360px;
     font-size: 20px;
     display : flex;
-    overflow: auto;
+    overflow-y: scroll;
     margin: 0 70px;
     flex-direction: column;
     justify-content: center;
